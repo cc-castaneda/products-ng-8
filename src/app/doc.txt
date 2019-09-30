@@ -1,0 +1,5 @@
+https://www.djamware.com/post/5d0eda6f80aca754f7a9d1f5/angular-8-tutorial-learn-to-build-angular-8-crud-web-app#install-angular-cli
+https://angular.io/guide/observables
+https://angular.io/tutorial/toh-pt4
+https://www.djamware.com/post/5d0eda6f80aca754f7a9d1f5/angular-8-tutorial-learn-to-build-angular-8-crud-web-app
+https://angular.io/cli
